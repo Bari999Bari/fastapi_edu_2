@@ -1,1 +1,1 @@
-# flask_edu_2
+# fastapi_edu_2
